@@ -1,0 +1,27 @@
+.flex{
+display: flex;
+flex-direction: row;
+height: 80px;
+background-color: rgb(237, 239, 139);
+justify-content: space-between;
+}
+.footer{
+display: block;
+}
+.left-section{
+background-color: rgb(168, 166, 166);  
+}
+.contains{
+display: flex;
+flex-direction: column; 
+
+}
+.copyright{
+height: 20px;  
+font-size: 12px;
+}
+.Home,.about-us,.Studentsmanagement,.Aboutmyteam{
+height: 15px;  
+color: black;
+font-size: 12px;
+}

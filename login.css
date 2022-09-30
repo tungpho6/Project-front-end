@@ -1,0 +1,62 @@
+*{
+margin: 0;
+padding: 0;
+font-family: Roboto, Arial;
+
+}
+body{
+  background-color: rgb(237, 239, 139);
+}
+.Input,.Input-bar{
+display: block;
+margin-top: 100px;
+}
+.Input{
+width: 300px;
+height: 250px;
+border-width: 1px;
+border-style: solid;
+border-color: gray;
+justify-content: center;
+background-color:transparent;
+border-radius: 5px;
+box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+margin: 0;  
+
+}
+.Tênđăngnhập{
+display: block;
+width: 200px;
+height: 23px;
+}
+.Đăngnhập{
+display: block;
+width: 200px; 
+}
+.Tênđăngnhập,.Đăngnhập::placeholder{
+margin-left: 5px;
+
+}
+.background-image{
+background-image: url('/Project-front-end/images/istockphoto-519827314-612x612.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height: 600px;
+}
+.container{
+margin: 0;  
+display: inline-block;
+margin-top: 60px;
+margin-left: 500px;
+box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.15);
+}
+.Quênmậtkhẩu{
+font-size: 13px;
+display: block;
+margin-top: 8px;
+}
+.Login-remember,.Ghi-nhớ{
+font-size: 12px;
+margin-top: 10px;  
+}

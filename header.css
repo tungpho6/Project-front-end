@@ -1,0 +1,35 @@
+.header-container{
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 120px;
+  background-color: rgb(253, 253, 253);
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  border-radius: 2px;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.15);
+  align-items: center;
+  justify-content: space-between;
+  }
+.logo-img{
+    width: 700px;
+}
+.Home-page,.About-us-page,.Student-management,.About-my-team{
+  background-color: rgb(129, 129, 129);
+  margin: 10px;
+  color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 8px;
+  border: none;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.15);  
+  transition: opacity 0.1s;
+}
+.Home-page:hover,.About-us-page:hover,.Student-management:hover,.About-my-team:hover{
+opacity: 0.8;
+}
+  
+  
