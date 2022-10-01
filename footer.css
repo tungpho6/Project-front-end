@@ -2,7 +2,8 @@
 display: flex;
 flex-direction: row;
 height: 80px;
-background-color: rgb(237, 239, 139);
+background-color:rgb(165, 216, 255);
+
 justify-content: space-between;
 }
 .footer{
