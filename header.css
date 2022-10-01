@@ -30,6 +30,8 @@
 }
 .Home-page:hover,.About-us-page:hover,.Student-management:hover,.About-my-team:hover{
 opacity: 0.8;
+background-color:rgb(245, 245, 168) ;
+color:rgb(129, 129, 129);
 }
   
   
