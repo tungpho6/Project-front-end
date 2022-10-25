@@ -1,6 +1,6 @@
 let objPeople = [
 { username: "211210244",
-  password: 'ductung05'
+  password: '**********'
 },
 { username: "Phan Dong Hai",
   password: 'phandonghai'
